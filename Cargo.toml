@@ -1,5 +1,5 @@
 [package]
-name = "grep-prop"
+name = "grep_prop"
 version = "0.1.0"
 authors = ["Miguel Panuto <miguel.panuto@live.com>"]
 edition = "2018"
